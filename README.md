@@ -1,1 +1,3 @@
 # RecreationPhysics
+
+Safety first.
