@@ -22,3 +22,5 @@ flattering would be like you understand string theory
 flattering or not
 
 you do.
+
+## Christoffel Symbols is not a Tensor!
