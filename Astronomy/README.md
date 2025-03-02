@@ -1,6 +1,6 @@
 # README 
 
-#[#]* [proablity ]^[probability ]^that NASA has not find a not discovered planet in the Solar Sytem.
+#[#]* [proablity ]+[probability ]+that NASA has not find a not discovered planet in the Solar Sytem.
 
 ```markdown
 The probability that **NASA has not yet discovered a planet in the Solar System** depends on several factors:
